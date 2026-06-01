@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects and skills as a Data Analyst & Engineer.
 
-**Live:** [personal-portfolio-webiste-ten.vercel.app](https://personal-portfolio-webiste-ten.vercel.app)
+**Live:** [personal-portfolio-webiste-ten.vercel.app](https://personalportfolio-marcelljonathan.vercel.app/)
 
 ## Tech Stack
 
