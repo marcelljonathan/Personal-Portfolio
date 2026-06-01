@@ -15,7 +15,7 @@ export default function Footer() {
           letterSpacing: 0.5,
         }}
       >
-        © 2026 Marcell Jonathan. Built with Next.js.
+        © 2026 Marcell Jonathan
       </p>
     </footer>
   );
