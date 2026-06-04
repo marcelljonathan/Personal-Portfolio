@@ -180,7 +180,7 @@ export default function Hero() {
             marginBottom: 28,
           }}
         >
-          Data Analyst &amp; Engineer
+          Data Engineer &amp; Full Stack Developer
         </motion.h2>
 
         <motion.div
