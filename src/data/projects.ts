@@ -14,7 +14,7 @@ export const projects: Project[] = [
     id: 1,
     title: "Kopi Nusantara Dashboard",
     description:
-      "Full-stack F&B analytics dashboard for an Indonesian coffee chain with 3 outlets, featuring live sales KPIs, P&L tracking, peak hour analysis, and an AI chat assistant powered by Groq and LLaMA.",
+      "Analytics dashboard for an Indonesian coffee chain with 3 outlets, featuring live sales KPIs, P&L tracking, peak hour analysis, and an AI chat assistant.",
     tech: ["Next.js", "FastAPI", "PostgreSQL", "Supabase", "Groq"],
     liveUrl: "https://kopinusantaradashboard.vercel.app/",
     githubUrl: "https://github.com/marcelljonathan/Sales-Dashboard-with-LLM",
@@ -47,7 +47,7 @@ export const projects: Project[] = [
     id: 4,
     title: "CryptoScope",
     description:
-      "Real-time cryptocurrency intelligence dashboard tracking top 5 coins with live prices, 90-day charts, RSI/MA50 technical analysis, and news from CoinDesk and CoinTelegraph.",
+      "Real-time cryptocurrency intelligence dashboard tracking top 5 coins with live prices, 90-day charts, RSI/MA50 technical analysis, and news.",
     tech: ["Python", "Streamlit", "Plotly", "CoinGecko API"],
     liveUrl: "https://crypto-scope-e6sfae8tmjwtk8vhotkchj.streamlit.app/",
     githubUrl: "https://github.com/marcelljonathan/Crypto-Scope",
