@@ -13,6 +13,7 @@ Personal portfolio website showcasing my projects and skills as a Data Analyst &
 
 ## Projects Featured
 
+- **Kopi Nusantara Dashboard** — Full-stack F&B analytics dashboard with AI chat assistant (Next.js + FastAPI + Supabase)
 - **Trading Simulator** — Historical trading practice platform with LLM-powered coaching
 - **DailyFX Update** — Automated currency exchange rate tracking pipeline
 - **CryptoScope** — Real-time cryptocurrency intelligence dashboard

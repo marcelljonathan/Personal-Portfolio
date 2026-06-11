@@ -24,7 +24,7 @@ const categories = [
   {
     icon: Wrench,
     label: "Tools",
-    skills: ["Git", "Railway", "Vercel", "REST APIs", "SQLite"],
+    skills: ["Git", "Railway", "Vercel", "REST APIs", "SQLite", "FastAPI", "Supabase"],
   },
 ];
 

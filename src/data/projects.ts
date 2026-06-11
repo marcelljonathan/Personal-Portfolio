@@ -12,6 +12,17 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: 1,
+    title: "Kopi Nusantara Dashboard",
+    description:
+      "Full-stack F&B analytics dashboard for an Indonesian coffee chain with 3 outlets, featuring live sales KPIs, P&L tracking, peak hour analysis, and an AI chat assistant powered by Groq and LLaMA.",
+    tech: ["Next.js", "FastAPI", "PostgreSQL", "Supabase", "Groq"],
+    liveUrl: "https://kopinusantaradashboard.vercel.app/",
+    githubUrl: "https://github.com/marcelljonathan/Sales-Dashboard-with-LLM",
+    screenshot: "/screenshots/kopinusantara.png",
+    featured: true,
+  },
+  {
+    id: 2,
     title: "Trading Simulator",
     description:
       "Historical trading practice platform where users simulate trades on real OHLC data with LLM-powered coaching and performance tracking.",
@@ -22,7 +33,7 @@ export const projects: Project[] = [
     featured: true,
   },
   {
-    id: 2,
+    id: 3,
     title: "DailyFX Update",
     description:
       "Automated currency exchange rate pipeline tracking 20 major currency pairs and crosses with daily gainers, losers, and alerts.",
@@ -30,10 +41,10 @@ export const projects: Project[] = [
     liveUrl: "https://dailyfx-update-2525.up.railway.app/",
     githubUrl: "https://github.com/marcelljonathan/DailyFX-Update",
     screenshot: "/screenshots/dailyfx.png",
-    featured: true,
+    featured: false,
   },
   {
-    id: 3,
+    id: 4,
     title: "CryptoScope",
     description:
       "Real-time cryptocurrency intelligence dashboard tracking top 5 coins with live prices, 90-day charts, RSI/MA50 technical analysis, and news from CoinDesk and CoinTelegraph.",
@@ -44,7 +55,7 @@ export const projects: Project[] = [
     featured: false,
   },
   {
-    id: 4,
+    id: 5,
     title: "E-Commerce Sales Dashboard",
     description:
       "Interactive sales analytics dashboard exploring 100,000+ orders through dynamic filters and real-time visualizations.",
